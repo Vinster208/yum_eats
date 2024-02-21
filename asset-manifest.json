@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yum_eats/static/css/main.6fc7368a.css",
+    "main.js": "/yum_eats/static/js/main.ef53ffed.js",
+    "index.html": "/yum_eats/index.html",
+    "main.6fc7368a.css.map": "/yum_eats/static/css/main.6fc7368a.css.map",
+    "main.ef53ffed.js.map": "/yum_eats/static/js/main.ef53ffed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc7368a.css",
+    "static/js/main.ef53ffed.js"
+  ]
+}
